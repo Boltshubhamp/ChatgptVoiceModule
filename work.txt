@@ -1,0 +1,34 @@
+acess token:-(90 days)
+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
+
+clone any branch command:-
+ git clone -b Dev https://github.com/gsquare-tech/erp-backend.git
+
+windows boot problem solve
+ lsblk
+ 1051  ls/boot/efi/EFI
+ 1052  ls/boot/efi
+ 1053  cd /boot/efi
+ 1054  ls
+ 1055  cd EFI/
+ 1056  ls
+ 1057  cd Microsoft/
+ 1058  ls
+ 1059  cd Boot/
+ 1060  ls
+ 1061  ls/boot
+ 1062  ls /boot
+ 1063  cd grub
+ 1064  sudo cd grub
+ 1065  cd /boot/grub
+ 1066  ls
+ 1067  sudo grub.cfg
+ 1068  cd grub.cfg
+ 1069  sudo cd grub.cfg
+ 1070  vim grub.cfg
+ 1071  sudo apt-grub
+ 1072  sudo update-grub
+ 1073  sudo vim /etc/default/grub
+ 1074  sudo update-grub
+ 1075  history
+
